@@ -1,0 +1,6 @@
+{
+  "name": "PREMIER Real Estate | Luxury Property Platform & CMS",
+  "description": "Premium real estate platform with dynamic CMS properties, Velo filtering, agent profiles, location guides, viewing scheduler, and property inventory management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
